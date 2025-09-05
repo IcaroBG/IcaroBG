@@ -1,8 +1,9 @@
 ##Olá Eu sou Icaro Conceição!
 
-- 💬 Ask me about ...
-- 📫 contate-me no email:icarojarbas@outlook.com 
-- 🎒 Aluno SENAI - Lauro de Freitas. (Tecnico em Desenvolvimento de Sistema)
+- 💬 Pergunte-me sobre: Desenvolvimento de Sistemas, Banco de Dados e Lógica de Programação  
+- 📫 Contato: icarojarbas@outlook.com  
+- 🎒 Formação: Técnico em Desenvolvimento de Sistemas pelo SENAI - Lauro de Freitas  
+- 🎒 Atualmente: Estudante de Análise e Desenvolvimento de Sistemas na UNICV  
  <div  align="center"> 
   <div style="display: inline_block"><br>
   </div>
